@@ -29,6 +29,6 @@ body {
 }
 
 .card {
-    flex: 0 0 auto; /* Prevent shrinking and ensure the cards stay in a row */
-    margin: 0 10px; /* Optional: Adds some space between cards */
+    flex: 0 0 auto;
+    margin: 0 10px;
 }
